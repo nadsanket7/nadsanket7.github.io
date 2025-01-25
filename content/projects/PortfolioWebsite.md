@@ -1,8 +1,8 @@
 ---
 date: '2021-04-20'
 title: 'Personal Website'
-github: 'https://github.com/sanket1815/sanket1815.github.io'
-external: 'https://sanket1815.github.io'
+github: 'https://github.com/nadsanket7/nadsanket7.github.io'
+external: 'https://nadsanket7.github.io'
 tech:
   - JavaScript
   - GraphQL

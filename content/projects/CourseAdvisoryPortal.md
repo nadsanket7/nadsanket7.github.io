@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 title: 'Course Advisory Portal'
-github: 'https://github.com/Sanket1815/CS418-Web-Programming-Sanket'
+github: 'https://github.com/nadsanket7/CS418-Web-Programming-Sanket'
 external: ''
 tech:
   - React/Next.js
